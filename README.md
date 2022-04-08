@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EternalKaew
 - 👀 I’m interested in optimization algorithm
 - 🌱 I’m currently learning to manage my own start up project
-- 💞️ I’m looking to collaborate on no-code predictive analytics project
+- 💞️ I’m looking to collaborate on no-code predictive analytics as SAAS development project
 - 📫 How to reach me areeyarath.b@gmail.com
 
 <!---
